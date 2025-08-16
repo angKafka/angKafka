@@ -68,5 +68,5 @@
 <br>
 
 <div align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=angKafka&" alt="angKafka" />
+  <img align="center" src="https://github.com/angKafka/leetcode/blob/main/file.svg" alt="angKafka" />
 </div>
