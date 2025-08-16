@@ -30,6 +30,10 @@
   </p>
 </div>
 
+
+![Java](https://img.shields.io/badge/Java-8%2F17-blue.svg)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-Expert-green.svg)
+
 <hr>
 
 <div align="center">
